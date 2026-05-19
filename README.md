@@ -76,19 +76,6 @@ Executive Battlecard Report
 
 ---
 
-# 📊 Example Output
-
-## Workflow
-
-![Workflow](workflow.png)
-
----
-
-## AI Battlecard Report
-
-![Battlecard](battlecard.png)
-
----
 
 # 💼 Real Business Use Case
 
